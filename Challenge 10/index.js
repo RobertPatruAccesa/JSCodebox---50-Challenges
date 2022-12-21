@@ -1,0 +1,2 @@
+document.write('<div class="bg" style="width: 100%; height: 100%; color: #FFF; display: flex; align-items: center; justify-content: center;">Bluescreen of death!</div>');
+document.querySelector('.bg').style.background = 'blue';
